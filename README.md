@@ -10,7 +10,7 @@ You may check out the full Google Colab notebooks here.
 | Code   | Google Colab |
 | ------ | ------ |
 | Python | [National Cancer Institute.ipynb](https://colab.research.google.com/drive/1i1ESZpijZCTCq1G9IX3NyDivycg2z5HO?usp=sharing) |
-| SQL    | [Pulsepoint.ipynb](https://colab.research.google.com/drive/10jF0ecGeB-6I9e0jKqtVUnNQflzsAvDq?usp=sharing) |
+| SQL    | [Pulsepoint.ipynb](https://colab.research.google.com/drive/1WEaJzUH5fHzHfjpB3VWtVJ-l4CGcfpPt?usp=sharing) |
 
 ### Question
 
